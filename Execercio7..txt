@@ -1,0 +1,9 @@
+Execercio7.
+Que tipo de ataque a Ana sofreu
+R: A Ana sofreu de ataque fishing
+Que sinais poderiam indicar que o e-mail era falso?
+R:Ver o autor do e-mail verificar com banco sobre o e-mail.
+O que é que a Ana deveria ter feito antes de clicar no link a inserir os seus dados?
+R:ligar pra o banco e confirmar se o e-mail e confirmar.
+Que medidas ela pode tomar agora para minimizar os danos?
+R:tentar ligar pro banco e cancelar a conta do banco e avisar que foi hackeada.
